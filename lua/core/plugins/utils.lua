@@ -6,7 +6,7 @@ return {
         main = "nvim-treesitter.configs",
         build = ":TSUpdate",
         opts = {
-            ensure_installed = "cpp", "python", "c", "java", "go", "rust", "html", "css", "javascript",
+            ensure_installed = "cpp", "python", "c", "java", "go", "rust", "html", "css", "javascript", "lua",
             highlight = {
                 enable = true,
             },

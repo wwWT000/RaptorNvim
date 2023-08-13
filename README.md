@@ -18,3 +18,6 @@ git clone https://github.com/wwWT000/RaptorNvim`
 # Requirements
 - Neovim 0.9.x 
 - Nerd Font 
+
+#LICENSE
+GPL License 3.0

@@ -1,14 +1,4 @@
 return {
-    lazy = {
-       opts = {
-            ui = {
-                border = "rounded"
-            },
-            install = {
-                colorscheme = {"dracula"}
-            }
-       } 
-    },
     {
         "nvim-treesitter/nvim-treesitter",
         lazy = true,
@@ -16,7 +6,7 @@ return {
         main = "nvim-treesitter.configs",
         build = ":TSUpdate",
         opts = {
-            ensure_installed = "cpp", "python",
+            ensure_installed = "cpp", "python", "c", "java", "go", "rust", "html", "css", "javascript",
             highlight = {
                 enable = true,
             },

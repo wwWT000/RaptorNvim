@@ -12,7 +12,7 @@ git clone https://github.com/wwWT000/RaptorNvim ~/.config/nvim
 ```
 - In Windows:
 ```
-git clone https://github.com/wwWT000/RaptorNvim ~/appdata/local/nvim`
+git clone https://github.com/wwWT000/RaptorNvim ~/appdata/local/nvim
 ```
 
 # Requirements

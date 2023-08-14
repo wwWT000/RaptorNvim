@@ -8,11 +8,11 @@ An out-of-the-box Neovim Code Editor(Not an IDE!!) layer.
 ## 🛠 Installation 
 - In Linux & macOS:
 ```
-git clone https://github.com/wwWT000/RaptorNvim
+git clone https://github.com/wwWT000/RaptorNvim ~/.config/nvim
 ```
 - In Windows:
 ```
-git clone https://github.com/wwWT000/RaptorNvim`
+git clone https://github.com/wwWT000/RaptorNvim ~/appdata/local/nvim`
 ```
 
 # Requirements
